@@ -17,7 +17,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="..\Runtime\System.Windows.Controls\DataPager\WeakEventListener.cs" Link="WeakEventListener.cs" />
+    <Compile Include="..\Controls.Input\Common\WeakEventListener.cs" Link="WeakEventListener.cs" />
     <Compile Include="Charting\Axis\Axis.cs" />
     <Compile Include="Charting\Axis\AxisLabel.cs" />
     <Compile Include="Charting\Axis\AxisOrientation.cs" />

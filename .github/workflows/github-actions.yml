@@ -2,7 +2,7 @@ name: OpenSilver Build
 on:
   push:
     branches:
-      - develop
+      - fix/findname
 jobs:
   OpenSilver-Build:
     #We should not run these steps on the forks by default.
